@@ -1,1 +1,1 @@
-export const server = "https://chat-backend-daem.onrender.com";
+export const server = import.meta.env.VITE_SERVER;
